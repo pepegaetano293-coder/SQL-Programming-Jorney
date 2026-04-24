@@ -20,3 +20,5 @@ Durate questo progetto ho approfondito i seguenti congetti SQL:
 ## Strumenti utilizzati
 - **Client**: Bekeeper Studio.
 - **Database Engine**: MariaDB / MySQL.
+--
+*Progetto realizzato a scopo didattico per consolidare le basi di gestione database relazionali.*
